@@ -1,0 +1,26 @@
+.note__list {
+  display: flex;
+  gap: 2rem;
+}
+
+.note {
+  width: 230px;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.new input {
+  border: 0;
+  outline: 0;
+
+  background: grey;
+  color: white;
+}
+
+/* Last */
+/* input["placeholder"] {
+  color: white;
+} */
